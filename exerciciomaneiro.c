@@ -26,5 +26,6 @@ int main() {
     int resultado = fatorial(numero);
     printf("%d! = %d\n", numero, resultado);
 
+	system("pause");
     return 0;
 }
